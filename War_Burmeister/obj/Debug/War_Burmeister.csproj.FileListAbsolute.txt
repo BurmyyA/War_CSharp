@@ -1,0 +1,10 @@
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\obj\Debug\War_Burmeister.csprojAssemblyReference.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\obj\Debug\War_Burmeister.WarForm.resources
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\obj\Debug\War_Burmeister.Properties.Resources.resources
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\obj\Debug\War_Burmeister.csproj.GenerateResource.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\obj\Debug\War_Burmeister.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\bin\Debug\War_Burmeister.exe.config
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\bin\Debug\War_Burmeister.exe
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\bin\Debug\War_Burmeister.pdb
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\obj\Debug\War_Burmeister.exe
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_7\War_Burmeister\obj\Debug\War_Burmeister.pdb
